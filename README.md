@@ -186,10 +186,4 @@ If you encounter issues during installation or configuration:
 4. Ensure your API key is valid and active
 5. Check that the `.env` file is in the root directory
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 **Happy movie searching! 🎬**
